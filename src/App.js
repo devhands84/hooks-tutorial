@@ -1,7 +1,6 @@
-import Counter from "./Counter";
-
+import Average from "./info";
 const App = () => {
-    return <Counter />;
+    return <Average />;
 };
 
 export default App;
